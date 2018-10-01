@@ -1,5 +1,5 @@
 require_relative "./interactive_record.rb"
-
+#noice
 class Song < InteractiveRecord
 
   self.column_names.each do |col_name|
